@@ -4,7 +4,7 @@ public class SecurityTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello world 你好世界 长江空间");
+		System.out.println("Hello world 你好世界 长江空间yihuyoijui百度长江空间");
 		int a = 1;
 		long d = 2;
 		String b = "一";
